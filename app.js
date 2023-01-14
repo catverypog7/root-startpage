@@ -207,6 +207,6 @@ const printCards = () => {
 /* STARTER CODE */
 /****************/
 
-userName.innerHTML = Kiyo;
+userName.innerHTML = NAME;
 printCards();
 updateDate();
