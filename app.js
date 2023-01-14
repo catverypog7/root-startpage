@@ -207,6 +207,6 @@ const printCards = () => {
 /* STARTER CODE */
 /****************/
 
-userName.innerHTML = "NAME";
+userName.innerHTML = NAME;
 printCards();
 updateDate();
